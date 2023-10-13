@@ -1,0 +1,6 @@
+Introdução ao versionamento e controle de código
+Introdução ao Git
+Introdução ao GitHub
+Introdução ao uso do editor de código VSCode
+Criação do Perfil do aluno no GitHub Classroom
+Aula complementar
